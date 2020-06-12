@@ -1,1 +1,2 @@
-pro123=====version======001
+config:
+  info: "master branch,springcloud-config/config-prod.yml version=7" 
